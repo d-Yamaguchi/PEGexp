@@ -1,9 +1,9 @@
 Archive of genarated PEGs
 ====
 ## Usage
-`$git clone https://github.com/d-Yamaguchi/PEGexp.git
+`$git clone https://github.com/d-Yamaguchi/PEGexp.git`
 
-$cd PEGexp`
+`$cd PEGexp`
 
 To cleate an arcive file, type the following command.
 
