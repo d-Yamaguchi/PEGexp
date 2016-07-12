@@ -1,4 +1,4 @@
-Archive of genarated PEGs
+Archive of generated PEGs
 ====
 ## Usage
 `$git clone https://github.com/d-Yamaguchi/PEGexp.git`
